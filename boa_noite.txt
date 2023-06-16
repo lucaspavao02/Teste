@@ -1,0 +1,4 @@
+Crie um repositório GIT para guardar a um documento no Git Hub. 
+O repositório precisa ser configurado com acesso PUBLICO e o nome dele é da sua escolha.
+Depois, usando Gitflow no seu PC, coloque o seu documento na Branch Develop e sincronize com o Git Hub. 
+Não atualize a Branch Main.
